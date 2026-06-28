@@ -1,2 +1,16 @@
 # CODSOFT
-A modern, responsive dark-themed Personal Portfolio Website built using HTML5 and CSS3 for my CodSoft Internship (L1, Task 1). Features an About page, Skills grid, Projects showcase (Tracker, Visualizer), PDF Resume download, and a clean Contact Form.
+# Personal Portfolio 🚀
+
+A responsive single-page portfolio built with HTML5 & CSS3 for **CodSoft (Level 1, Task 1)**.
+
+## 🌟 Features
+
+* Responsive CSS Grid/Flexbox layout
+* Sleek dark-mode UI
+* Semantic HTML
+
+## 🛠️ Tech Stack
+
+* HTML5 & CSS3
+
+Developed by **Kinjal Rajput**, 2nd-year B.Tech CS student.
